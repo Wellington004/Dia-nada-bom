@@ -1,0 +1,26 @@
+h1{color: black;text-align: center;font-size: 50px;font-family: 'Times New Roman', Times, serif;background-color: deepskyblue;margin-top: 150px;}
+h2{font-size: 30px;font-family: 'Times New Roman', Times, serif;}
+p{font-size: 19px;font-family: 'Times New Roman', Times, serif;}
+#capa{
+     text-align:center;
+     height: 100vh;
+      align-items:center;
+      flex-direction: column;
+      justify-content: center;
+      display: flex;
+      background-image: url(https://www.publicdomainpictures.net/pictures/40000/velka/blue-abstract-background.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+    
+}
+#video{
+    background-color: deepskyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} 
+#Texto{text-align: justify;}
+li{font-size: 19px;font-family: 'Times New Roman', Times, serif;}
+#Titulo{font-size: 50px;}
+#Sub{font-size: 20px;}
